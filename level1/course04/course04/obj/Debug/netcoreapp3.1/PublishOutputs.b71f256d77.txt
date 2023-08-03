@@ -1,0 +1,5 @@
+C:\xampp\htdocs\C#\course04\course04\bin\Debug\netcoreapp3.1\publish\course04.exe
+C:\xampp\htdocs\C#\course04\course04\bin\Debug\netcoreapp3.1\publish\course04.dll
+C:\xampp\htdocs\C#\course04\course04\bin\Debug\netcoreapp3.1\publish\course04.deps.json
+C:\xampp\htdocs\C#\course04\course04\bin\Debug\netcoreapp3.1\publish\course04.runtimeconfig.json
+C:\xampp\htdocs\C#\course04\course04\bin\Debug\netcoreapp3.1\publish\course04.pdb

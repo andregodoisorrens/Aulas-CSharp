@@ -1,0 +1,14 @@
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.AssemblyInfo.cs
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.exe
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.deps.json
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.runtimeconfig.json
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.runtimeconfig.dev.json
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.dll
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.pdb
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.dll
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.pdb
+C:\xampp\htdocs\C#\level2\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.genruntimeconfig.cache

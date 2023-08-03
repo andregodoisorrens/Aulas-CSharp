@@ -1,0 +1,14 @@
+C:\xampp\htdocs\C#\Course05\Course05\bin\Debug\netcoreapp3.1\Course05.exe
+C:\xampp\htdocs\C#\Course05\Course05\bin\Debug\netcoreapp3.1\Course05.deps.json
+C:\xampp\htdocs\C#\Course05\Course05\bin\Debug\netcoreapp3.1\Course05.runtimeconfig.json
+C:\xampp\htdocs\C#\Course05\Course05\bin\Debug\netcoreapp3.1\Course05.runtimeconfig.dev.json
+C:\xampp\htdocs\C#\Course05\Course05\bin\Debug\netcoreapp3.1\Course05.dll
+C:\xampp\htdocs\C#\Course05\Course05\bin\Debug\netcoreapp3.1\Course05.pdb
+C:\xampp\htdocs\C#\Course05\Course05\obj\Debug\netcoreapp3.1\Course05.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\Course05\Course05\obj\Debug\netcoreapp3.1\Course05.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\Course05\Course05\obj\Debug\netcoreapp3.1\Course05.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\Course05\Course05\obj\Debug\netcoreapp3.1\Course05.AssemblyInfo.cs
+C:\xampp\htdocs\C#\Course05\Course05\obj\Debug\netcoreapp3.1\Course05.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\Course05\Course05\obj\Debug\netcoreapp3.1\Course05.dll
+C:\xampp\htdocs\C#\Course05\Course05\obj\Debug\netcoreapp3.1\Course05.pdb
+C:\xampp\htdocs\C#\Course05\Course05\obj\Debug\netcoreapp3.1\Course05.genruntimeconfig.cache

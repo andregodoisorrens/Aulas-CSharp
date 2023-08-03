@@ -1,0 +1,14 @@
+C:\xampp\htdocs\C#\course04\course04\bin\Debug\netcoreapp3.1\course04.exe
+C:\xampp\htdocs\C#\course04\course04\bin\Debug\netcoreapp3.1\course04.deps.json
+C:\xampp\htdocs\C#\course04\course04\bin\Debug\netcoreapp3.1\course04.runtimeconfig.json
+C:\xampp\htdocs\C#\course04\course04\bin\Debug\netcoreapp3.1\course04.runtimeconfig.dev.json
+C:\xampp\htdocs\C#\course04\course04\bin\Debug\netcoreapp3.1\course04.dll
+C:\xampp\htdocs\C#\course04\course04\bin\Debug\netcoreapp3.1\course04.pdb
+C:\xampp\htdocs\C#\course04\course04\obj\Debug\netcoreapp3.1\course04.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\course04\course04\obj\Debug\netcoreapp3.1\course04.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\course04\course04\obj\Debug\netcoreapp3.1\course04.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\course04\course04\obj\Debug\netcoreapp3.1\course04.AssemblyInfo.cs
+C:\xampp\htdocs\C#\course04\course04\obj\Debug\netcoreapp3.1\course04.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\course04\course04\obj\Debug\netcoreapp3.1\course04.dll
+C:\xampp\htdocs\C#\course04\course04\obj\Debug\netcoreapp3.1\course04.pdb
+C:\xampp\htdocs\C#\course04\course04\obj\Debug\netcoreapp3.1\course04.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfo.cs
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.exe
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.deps.json
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.json
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.dev.json
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.dll
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.pdb
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.dll
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.pdb
+C:\xampp\htdocs\C#\level2\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.genruntimeconfig.cache
